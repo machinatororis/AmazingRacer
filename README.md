@@ -1,6 +1,8 @@
 # AmazingRacer
 Game 1 of the book "Unity in 24 Hours" by Ben Tristem and Mike Geig
 
+![screenshot of sample](https://github.com/machinatororis/AmazingRacer/blob/main/AmazingRacer.jpg)
+
 # Design
 ## The Concept
 The player starts at one end of an area and runs to the other end. There will be trees, water, hills and other obstacles in the path. The goal of player is to see how fast he can make it to the finish zone.
